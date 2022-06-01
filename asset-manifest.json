@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shopout-admin-portal/static/css/main.2513fefc.css",
-    "main.js": "/shopout-admin-portal/static/js/main.06129fc8.js",
+    "main.js": "/shopout-admin-portal/static/js/main.71b37495.js",
     "index.html": "/shopout-admin-portal/index.html",
     "main.2513fefc.css.map": "/shopout-admin-portal/static/css/main.2513fefc.css.map",
-    "main.06129fc8.js.map": "/shopout-admin-portal/static/js/main.06129fc8.js.map"
+    "main.71b37495.js.map": "/shopout-admin-portal/static/js/main.71b37495.js.map"
   },
   "entrypoints": [
     "static/css/main.2513fefc.css",
-    "static/js/main.06129fc8.js"
+    "static/js/main.71b37495.js"
   ]
 }
