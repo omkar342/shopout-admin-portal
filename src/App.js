@@ -6,7 +6,7 @@ import Business from "./Components/Business";
 import Events from "./Components/Events";
 import Store from "./Components/Store";
 import Video from "./Components/Video";
-import { Route, Switch, Redirect, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   return (
@@ -18,6 +18,7 @@ function App() {
       <main>
         <Routes>
           <Route exact path="/" element={<Business/>}></Route>
+          <Route exact path="/shopout-admin-portal" element={<Business/>}></Route>
           <Route exact path="/agent" element={<Agent/>}></Route>
           <Route exact path="/business" element={<Business/>}></Route>
           <Route exact path="/events" element={<Events/>}></Route>
